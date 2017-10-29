@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/471Proj-New.iml" filepath="$PROJECT_DIR$/471Proj-New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPSC-471-master.iml" filepath="$PROJECT_DIR$/CPSC-471-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Connecttodatabase.iml" filepath="$PROJECT_DIR$/Connecttodatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_471.iml" filepath="$PROJECT_DIR$/New_471.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtds-1.3.1/jtds-1.3.1.iml" filepath="$PROJECT_DIR$/jtds-1.3.1/jtds-1.3.1.iml" />
+    </modules>
+  </component>
+</project>
